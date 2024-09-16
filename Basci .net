@@ -1,0 +1,19 @@
+///////////////////What is .Net
+-> Application Dvelopment Platform,to build, Web and Mobile Apps.
+-> Developed by Microsoft, in 2002.
+->Provides multiple languages such as c#,VB,VC++ etc.
+
+//////////////////Why
+->Secured execution environment.
+->Wide variety of application and languages.
+-> Code re-usability.
+/////////////////Module
+-->.net have manallt two module
+1>C#.Net --> Windows GUI Application , Windows Services , Console Application.
+2>ASP.Net --> Web Sites , Web Applications , Web services.
+
+///////////////////CLI(Common Language Infrastructure)
+Application Source Code(C#.NET/VB.NET) --> IL(Microsoft Intermediate Language) -->CLR(Common Language Runtime) --> Native Machine Code(Executed by Operating System)
+--> When we start the code cse(c# compiler) compiler convert into IL.
+
+ 
