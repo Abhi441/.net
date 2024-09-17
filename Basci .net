@@ -28,5 +28,26 @@ Component --> Class Loader
 -->Exception Manager
 -->Thread Manager
 -->Security Manager.
+///Class Loader
+--> Loading classes from compiled sourse code to memory.
+-->Loads a class,when it is needed (before creating object).
+//Memory Manager
+-->Alllocating necessary memory for objects.
+-->When an object is created in the code,certain amount of memory will be allocated for the object in application.
+///Garbage Collection
+-->Free(deleting) memory of objects.
+-->Identifies all unreferenced onjects and deletethem in memory(RAM).
+///JIT(Just-In-Time) Compiler :
+--> Convert the MSIL Code into Native Machine Languge.
+--> Compiles the code of a class, when it is needed(before executing that particular class).
+///Exception Manager:
+-->Raise notification while run-time errors.
+--> Create exception logs.
+//////////////////////////////////.Net Framework Architecture
+Please take the notes. 
+/////////////Versition and Each Versition New Feature came.
+
+
+
 
  
