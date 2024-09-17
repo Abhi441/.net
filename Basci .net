@@ -16,4 +16,17 @@
 Application Source Code(C#.NET/VB.NET) --> IL(Microsoft Intermediate Language) -->CLR(Common Language Runtime) --> Native Machine Code(Executed by Operating System)
 --> When we start the code cse(c# compiler) compiler convert into IL.
 
+///////////CLR(Common Language Runtime)
+-->Execution Engion for all .net languages.
+-->Code-Execution Enviroment that executes all type of .net applications.
+-->Applications developed in any .net language runbased on CLR only.
+-->CLR is a part .NET Framework;preinstalled in Windows.
+Component --> Class Loader
+-->Memory Manager
+-->Garage Collector
+-->JIT Compiler
+-->Exception Manager
+-->Thread Manager
+-->Security Manager.
+
  
