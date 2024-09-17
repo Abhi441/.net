@@ -46,6 +46,14 @@ Component --> Class Loader
 //////////////////////////////////.Net Framework Architecture
 Please take the notes. 
 /////////////Versition and Each Versition New Feature came.
+/////////////////.NetCore
+//////////////Introducing Visual Studio
+What-->IDE/Code editor for all type of .net application & languages.
+--> Should be installed on 'Developer-machine'.
+Features-->Intelli-sence(code completion)
+-->Syntax highlighting
+-->Debugger
+-->GUI Designer
 
 
 
